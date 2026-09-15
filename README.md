@@ -236,4 +236,4 @@ This repository serves as the official landing page for CA AntiVirus. The softwa
 **Get the most recent version of CA AntiVirus today!**
 
 ---
-**Last updated:** 2026-09-15 11:00:20 UTC
+**Last updated:** 2026-09-15 16:10:40 UTC
